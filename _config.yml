@@ -6,19 +6,19 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.png'
-  greetings: "Hi there! My name is Aashi Dutt. I'm an AI aspirant, electronics engineer and android app developer based in India."
+  greetings: "Hi there! My name is Aashi. I'm an aspiring AI developer based in India, with a background in Electronics and Communications Engineering. Welcome to my Blog."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
-production_url: https://royce.netlify.com/
-disqus: 'justgoodthemes'
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+production_url: https://aashidutt.github.io
+#disqus: 'justgoodthemes'
+#mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics: 
 
 # Contact form setings
 email: aashi.dutt3@email.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+contact_page_description: "Coming Soon."
+thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
 twitter: 'justgoodthemes'
