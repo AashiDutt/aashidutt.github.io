@@ -1,11 +1,11 @@
 # Site setings
-name: 'Royce'
-description: 'Web Developer'
+name: 'Aashi Dutt'
+description: 'Aspiring AI Developer'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.jpg'
+  image: 'authorimage.png'
   greetings: "Hi there! My name is Aashi Dutt. I'm an AI aspirant, electronics engineer and android app developer based in India."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
@@ -22,16 +22,16 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 
 # Social links
 twitter: 'justgoodthemes'
-facebook: 'username'
+#facebook: 'username'
 github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
+#codepen: 'username'
+#dribbble: 'username'
 medium: '@username'
-instagram: 'username'
-pinterest: 'username'
+#instagram: 'username'
+#pinterest: 'username'
 linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+#producthunt: '@username'
+#quora: 'username'
 
 # Navigation
 navigation:
@@ -39,7 +39,7 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
+  - text: Projects
     url: /style-guide
   - text: Contact Me
     url: /contact
