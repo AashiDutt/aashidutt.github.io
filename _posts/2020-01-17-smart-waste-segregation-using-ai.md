@@ -58,4 +58,4 @@ There are 4 main parts in this project:
 
 Now that I have established the problem statement as well as provided a brief about one of the solutions to solve the root cause of the problem, let’s go to the next part of the post and go through various components of the project, how you can set it up and code for the project.
 
-See you in the next post. Happy Learning !! :slightly_smiling_face:
+See you in the next post. Happy Learning !!
