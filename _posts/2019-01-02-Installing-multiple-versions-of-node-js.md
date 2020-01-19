@@ -4,8 +4,6 @@ title: 'Installing Multiple Versions of Node.js Using NVM'
 tags: [JavaScript, Tips, Node]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/laptop.jpg
-featured: true
-hidden: true
 ---
 
 **Node.js** is an open-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side. Historically, JavaScript was used primarily for client-side scripting, in which scripts written in JavaScript are embedded in a webpage's HTML, to be run client-side by a JavaScript engine in the user's web browser.
