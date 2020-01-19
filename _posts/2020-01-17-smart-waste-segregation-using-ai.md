@@ -34,7 +34,7 @@ The biggest example of such a landfill is in Delhi, the capital of India.
 
 ![Delhi Landfill](assets/images/posts/2020/smart_waste_segregation/del_lndfill.jpg)
 
-This landfill is an example of mixed waste which has been piling up for more than a decade thereby forming it’s own mountain (213 ft. or 65 meters high), quoted as ***“India’s Mount Everest of Garbage”*** by some. This landfill spreads over an area greater than 40 football pitches. Just imagine that.
+This landfill is an example of mixed waste which has been piling up for more than a decade thereby forming it’s own mountain (213 ft. or 65 meters high). This landfill spreads over an area greater than 40 football pitches. Just imagine that.
 
 > "Almost 80 per cent of the waste at Delhi landfill sites could be recycled provided civic bodies start allowing ragpickers to segregate waste at source and recycle it." <cite>- India’s challenges in waste management, Down to Earth -</cite>
 
