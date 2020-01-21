@@ -40,7 +40,7 @@ navigation:
   - text: About
     url: /about
   - text: Projects
-    url: /style-guide
+    url: /projects
   - text: Contact Me
     url: /contact
 
