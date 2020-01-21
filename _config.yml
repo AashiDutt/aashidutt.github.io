@@ -17,7 +17,7 @@ ga_analytics:
 
 # Contact form setings
 email: aashi.dutt3@email.com
-contact_page_description: "Coming Soon."
+#contact_page_description: "Coming Soon."
 thankyou_page_description: "Your message has been successfully sent. I will contact you very soon!"
 
 # Social links
