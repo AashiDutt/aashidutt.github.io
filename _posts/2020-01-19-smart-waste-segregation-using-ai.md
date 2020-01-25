@@ -4,8 +4,6 @@ title: 'Smart Waste Segregation System Using Computer Vision'
 tags: [Android, Computer Vision, Environment, Embedded Systems]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2020/smart_waste_segregation/earth_money.jpg
-featured: true
-hidden: true
 ---
 
 Hello everyone. Welcome to my new series of blog posts. In this series, I will discuss a recent project I worked on in detail, why it matters, how you can reproduce the project including the code and a video of project working.

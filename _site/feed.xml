@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aashi Dutt</title>
+    <description>Aspiring AI Developer</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Jan 2020 14:45:20 +0530</pubDate>
+    <lastBuildDate>Thu, 23 Jan 2020 14:45:20 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Part-4: Final Assembly</title>
+        <description>&lt;p&gt;Hello everyone. Thanks for continuing with this post. In the last post we saw how to setup communication between Android app and the ESP module over HTTP to send commands to control the bin lids.&lt;/p&gt;
+
+&lt;p&gt;In this post, we’ll finally bring all the parts together, put in the code for bin lids motor control and complete the project assembly. So, let’s get started.&lt;/p&gt;
+
+&lt;h1 id=&quot;arduino-motor-control&quot;&gt;Arduino Motor Control&lt;/h1&gt;
+
+&lt;h1 id=&quot;final-project-assembly-and-testing&quot;&gt;Final Project Assembly and Testing&lt;/h1&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/smart-waste-segregation-final-assembly</link>
+        <guid isPermaLink="true">http://localhost:4000/smart-waste-segregation-final-assembly</guid>
+        
+        <category>Android</category>
+        
+        <category>Arduino</category>
+        
+        <category>HTTP</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Part-3: Communication  Module</title>
+        <description>&lt;p&gt;Hello everyone. Thanks for continuing with this post. In the last post we saw how to take our trained model, optimize it for size and speed as well as deploy it on Android/Embedded device.&lt;/p&gt;
+
+&lt;p&gt;In this post, we’ll continue with the deployed model code and add the code for communication  module that will communicate the result as well as relay the commands for controlling the lid of the appropriate bin. So, let’s get started.&lt;/p&gt;
+
+&lt;h1 id=&quot;http-clientserver-working-in-brief&quot;&gt;HTTP Client/Server working in Brief&lt;/h1&gt;
+
+&lt;p&gt;// Explain how HTTP Client protocol works with  diagrams/images&lt;/p&gt;
+
+&lt;h1 id=&quot;communication-module-in-code&quot;&gt;Communication Module in Code&lt;/h1&gt;
+
+&lt;p&gt;// Explain Arduino/ESP HTTP and Android Code with images/code.&lt;/p&gt;
+
+&lt;h1 id=&quot;validating-the-communication-module&quot;&gt;Validating the Communication Module&lt;/h1&gt;
+
+&lt;p&gt;// Test commnication module by sending a sample command from Android to ESP.&lt;/p&gt;
+
+&lt;h1 id=&quot;outro&quot;&gt;Outro&lt;/h1&gt;
+
+&lt;p&gt;Thanks for reading.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/smart-waste-segregation-communication-module</link>
+        <guid isPermaLink="true">http://localhost:4000/smart-waste-segregation-communication-module</guid>
+        
+        <category>Android</category>
+        
+        <category>Arduino</category>
+        
+        <category>HTTP</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Part-2: Model Deployment on Android/Embedded device</title>
+        <description>&lt;p&gt;Hello everyone. Thanks for continuing with this post. In the last post we saw how to perform data collection and train a machine learning model for image classification.&lt;/p&gt;
+
+&lt;p&gt;In this post, we’ll continue with the previously trained model and look at how to deploy that model on Android/Embedded system using TensorFlow Lite. So, let’s get started.&lt;/p&gt;
+
+&lt;h1 id=&quot;tensorflow-lite-working-in-brief&quot;&gt;TensorFlow Lite Working in Brief&lt;/h1&gt;
+
+&lt;h1 id=&quot;model-conversion&quot;&gt;Model Conversion&lt;/h1&gt;
+
+&lt;p&gt;// Cover Concepts regarding Model Compression and Optimization for Size &amp;amp; Latency&lt;/p&gt;
+
+&lt;h1 id=&quot;model-deployment-on-androidembedded-device&quot;&gt;Model Deployment on Android/Embedded Device&lt;/h1&gt;
+
+&lt;h1 id=&quot;validation-of-deployed-model&quot;&gt;Validation of Deployed Model&lt;/h1&gt;
+
+&lt;h1 id=&quot;outro&quot;&gt;Outro&lt;/h1&gt;
+</description>
+        <pubDate>Wed, 22 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/smart-waste-segregation-model-deployment</link>
+        <guid isPermaLink="true">http://localhost:4000/smart-waste-segregation-model-deployment</guid>
+        
+        <category>Computer Vision</category>
+        
+        <category>Android</category>
+        
+        <category>TensorFlow Lite</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Part-1: Data Collection &amp; Model Training</title>
+        <description>&lt;p&gt;Hello everyone. Thanks for continuing with this post. In this post, we will start with the most important steps for this project i.e. data collection and model training.&lt;/p&gt;
+
+&lt;p&gt;Now at the time of writing this blog post, there is a dataset that is available for this task called &lt;strong&gt;TrashNet&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;// TrashNet GitHub link and image&lt;/p&gt;
+
+&lt;p&gt;But just for showing how you can collect data for classes that are not in that dataset, I’ll be perfoming my own data collection for completion and then we’ll get into training the machine learning model for performing infernce.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-collection&quot;&gt;Data Collection&lt;/h2&gt;
+
+&lt;p&gt;So, before training the model, the first step is to perform data collection. We will be performing classification between biodegradable and non-biodegradable waste. For this, we’ll collect the data for things under these  two categories and then map the labels from the trained label to the top level labels.&lt;/p&gt;
+
+&lt;p&gt;Hence, for biodegradable waste, we’ll be collecting images for the following classes:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Food&lt;/li&gt;
+  &lt;li&gt;Paper&lt;/li&gt;
+  &lt;li&gt;Leaves&lt;/li&gt;
+  &lt;li&gt;Wood&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Similarly, for non-biodegradable waste, we’ll be collecting images for the following classes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Metal Cans&lt;/li&gt;
+  &lt;li&gt;Plastic Bags&lt;/li&gt;
+  &lt;li&gt;Plastic Bottles&lt;/li&gt;
+  &lt;li&gt;E-Waste&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Please feel free to add more classes with images to this dataset.&lt;/p&gt;
+
+&lt;p&gt;Now that we have defined what subclasses we need the images for under the top level classes, we need to now collect the images. To collect the data we will make use of Google Images. But instead of downloading the images one by one, we’ll write a script in Javascript that will automate the process of collecting the URL’s of all images for a Google Image search and then we can use that file to download all the images.&lt;/p&gt;
+
+&lt;p&gt;The script for getting the URL’s for search query is as follows:&lt;/p&gt;
+
+&lt;p&gt;// Show code for getting the urls.txt files&lt;/p&gt;
+
+&lt;p&gt;You need to perform this step for every class under the top level classes. The final urls.txt file content should look something like this:&lt;/p&gt;
+
+&lt;p&gt;// Show sample urls.txt file contents&lt;/p&gt;
+
+&lt;p&gt;Finally, once we have the URL’s for the images in all the classes, we can just run the following python file for each class with the path to specific classe’s urls.txt file as input argument. This will download all the images from the URL’s and put them in the  respective folders.&lt;/p&gt;
+
+&lt;p&gt;// Python code for “download_images.py” file to show how download works&lt;/p&gt;
+
+&lt;p&gt;Now that we have our images, let’s take a look at some of the images from all the classes:&lt;/p&gt;
+
+&lt;p&gt;// Show sample images for different classes&lt;/p&gt;
+
+&lt;p&gt;Now that we have done the hard part of data collection, let’s now get that model training. For simplicity and faster training of the model, we’ll be using a pre-trained model here for performing &lt;strong&gt;transfer learning&lt;/strong&gt;, but feel free to train your own model from scratch or use any other pre-trained model.&lt;/p&gt;
+
+&lt;h2 id=&quot;transfer-learning-in-brief&quot;&gt;Transfer Learning in Brief&lt;/h2&gt;
+
+&lt;p&gt;Transfer learning is a technique in which we take a pre-trained model, trained on a similar kind of dataset, to solve a similar kind of problem, but instead of using the final layer of that mode, we replace it with our custom layers.&lt;/p&gt;
+
+&lt;p&gt;// Example: VGG model layers image&lt;/p&gt;
+
+&lt;p&gt;So, what does that leaves us with? Well, that leaves us with a model whose filters have been fine-tuned to look for features like edges, shapes like circle, square etc. and many more such distinctive features, but is finetuned on our custom dataset with the number of output classe that we want instead of the original model that may be, say, 1000 or so.&lt;/p&gt;
+
+&lt;p&gt;// Show what a CNN/VGG layers learn image&lt;/p&gt;
+
+&lt;p&gt;// VGG Model layers image with our custom number of classes&lt;/p&gt;
+
+&lt;p&gt;This technique helps us to achieve a pretty good accuracy of the model without spending all the time in model training that the original model took, all this in a small number of iterations.&lt;/p&gt;
+
+&lt;p&gt;// Show sample model accuracy with training time spent.&lt;/p&gt;
+
+&lt;h2 id=&quot;model-training&quot;&gt;Model Training&lt;/h2&gt;
+
+&lt;p&gt;Now that we know that how transfer learning works and we also have the data, let’s fire up that hardware and train the deep nerual network. Since, we are dealing with images, we will be using the pre-trained VGG network which has been trained on world’s largest image dataset, ImageNet.&lt;/p&gt;
+
+&lt;p&gt;VGG by default has been trained to classify amongst 1000 classes, but as we have only eight sub-classes to classify from, we’ll change the output layer size to eight, freeze the model layers apart from the final trainable layers and re-train the model on our dataset.&lt;/p&gt;
+
+&lt;p&gt;The final model architecture looks like this:&lt;/p&gt;
+
+&lt;p&gt;// Model Summary&lt;/p&gt;
+
+&lt;p&gt;Now, we train the model using the following command:&lt;/p&gt;
+
+&lt;p&gt;// Explain code for transfer learning using our dataset we collected above&lt;/p&gt;
+
+&lt;p&gt;// Show image for final training accuracy numbers as well as link to source code and trained model files&lt;/p&gt;
+
+&lt;p&gt;// Show Confusion Matrix&lt;/p&gt;
+
+&lt;p&gt;// Show plots for training and test losses.&lt;/p&gt;
+
+&lt;h2 id=&quot;model-validation&quot;&gt;Model Validation&lt;/h2&gt;
+
+&lt;p&gt;Now that we have trained the model and seen the metrics of accuracy, let’s valiidate the model on some random images, not in the dataset, and see that how our model performs, before we deploy it into our system.&lt;/p&gt;
+
+&lt;p&gt;// Show jupyter notebook of model validation on random images&lt;/p&gt;
+
+&lt;h2 id=&quot;outro&quot;&gt;Outro&lt;/h2&gt;
+
+&lt;p&gt;So, to summarize this part, we did our data collection for classification, used a pre-trained model for performing transfer learning for achieving a good accuracy and finally validated our model on a random set of images not in the dataset so that we can see that the model has indeed learnt some useful stuff and not just memorized the images in the dataset (Overfitting).&lt;/p&gt;
+
+&lt;p&gt;Great. We now have our trained model. In the next post we’ll see how to deploy this model onto an Android device, use the phone’s camera to capture image in real time, perform infernece on-device, offline, and then send the controls to control the lids of the bins.&lt;/p&gt;
+
+&lt;p&gt;Happy learning !!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/smart-waste-segregation-data-collection-&-training</link>
+        <guid isPermaLink="true">http://localhost:4000/smart-waste-segregation-data-collection-&-training</guid>
+        
+        <category>Computer Vision</category>
+        
+        <category>Data Collection</category>
+        
+        <category>TensorFlow</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Smart Waste Segregation System Using Computer Vision</title>
+        <description>&lt;p&gt;Hello everyone. Welcome to my new series of blog posts. In this series, I will discuss a recent project I worked on in detail, why it matters, how you can reproduce the project including the code and a video of project working.&lt;/p&gt;
+
+&lt;p&gt;So, let’s get started.&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;I have been learning and working with machine learning for some time now. My background being in the field of electronics and communication engineering, I always wondered how the small embedded devices could be incorporated in a project along with machine learning models for the greater good.&lt;/p&gt;
+
+&lt;p&gt;Hence, came the idea of a &lt;strong&gt;&lt;em&gt;“Smart Waste Segregation System”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;Waste management is one of the biggest problems in the world.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“In September 2018, the World Bank announced that our global waste production is predicted to rise by 70 per cent by 2050 unless we take urgent action. Humankind currently produces two billion tonnes of waste per year between 7.6 billion people.” &lt;cite&gt;- Sensonseo Global Waste Index 2019 -&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;An efficient waste management system relies on how good the waste segregation system is that can separate the waste into different types, biodegradable and non-biodegradable waste, for better treatment.&lt;/p&gt;
+
+&lt;p&gt;If the biodegradable and non-biodegradable waste is segregated at the source, then the biodegradable waste can be sent to the compost plants for converting the biodegradable waste into organic compost that can be used in agriculture and other applications.&lt;/p&gt;
+
+&lt;p&gt;But most of the time the waste is in mixed form at the source itself which leads to inefficient disposal. Although, not all the waste can be treated and will require a resting place in form of an engineered landfill, but at-least for the waste that can be treated, it should be segregated properly at the source.&lt;/p&gt;
+
+&lt;p&gt;The biggest example of such a landfill is in Delhi, the capital of India.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/smart_waste_segregation/del_lndfill.jpg&quot; alt=&quot;Delhi Landfill&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This landfill is an example of mixed waste which has been piling up for more than a decade thereby forming it’s own mountain (213 ft. or 65 meters high). This landfill spreads over an area greater than 40 football pitches. Just imagine that.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Almost 80 per cent of the waste at Delhi landfill sites could be recycled provided civic bodies start allowing ragpickers to segregate waste at source and recycle it.” &lt;cite&gt;- India’s challenges in waste management, Down to Earth -&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-solution&quot;&gt;The Solution&lt;/h2&gt;
+
+&lt;p&gt;To solve the above problem, I have been working on one of the solutions in the form of a working project. The basic outline of the project is discussed in brief below.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-outline-in-brief&quot;&gt;Project Outline in Brief&lt;/h2&gt;
+
+&lt;p&gt;There are 4 main parts in this project:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Image Acquisition:&lt;/strong&gt; captures image, pre-processes it and make corrections if required.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Model Inference:&lt;/strong&gt; takes pre-processed images as input, performs inference using the trained ML model and provides the inferred output results.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;assets/images/posts/2020/smart_waste_segregation/project_brief_outline.png&quot; alt=&quot;Project_Outline&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Communication Module:&lt;/strong&gt; sends the inferred results to the embedded system module for appropriate bin lid controls based on the results inferred using the machine learning model.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Control Module:&lt;/strong&gt; controls the directed bin lid motor for a preset amount of time and sends back the acknowledgement response to the communication  module.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now that I have established the problem statement as well as provided a brief about one of the solutions to solve the root cause of the problem, let’s go to the next part of the post and go through various components of the project, how you can set it up and code for the project.&lt;/p&gt;
+
+&lt;p&gt;See you in the next post. Happy Learning !!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/smart-waste-segregation-using-ai</link>
+        <guid isPermaLink="true">http://localhost:4000/smart-waste-segregation-using-ai</guid>
+        
+        <category>Android</category>
+        
+        <category>Computer Vision</category>
+        
+        <category>Environment</category>
+        
+        <category>Embedded Systems</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
