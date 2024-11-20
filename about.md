@@ -4,15 +4,6 @@ title: About
 
 ---
 
-
-Aashi is an Electronics and Communication engineer with deep interest in the field of Artificial Intelligence. She is proficient in working with various Machine Learning frameworks like Scikit-Learn, TensorFlow, PyTorch and Keras as well as embedded systems. 
-
-Aashi likes to take on new challenges in the form of projects and experiment with new technologies and gadgets. She loves to learn new skills like Android development, cloud development, web technologies etc.
-
->Artificial Intelligence is the New Electricity.<cite> Andrew Ng </cite>
-
-This is her first blog which concentrates on her projects and experiences with AI and their interface with the field of electronics as she thinks that the combination of Electronics and Computers can be fun and great to experiment with.
-
-Apart from the technical aspects, aashi is a trained vocalist as well as loves to listen to songs, watch movies and travel the world.
+I am a graduate student at Georgia Institute of Technology, pursuing a master's in Computer science (majoring in Machine Learning). I have 3 years of experience combined in both tech and non-tech. I co-founded a Health-tech startup with fellow colleague from MIT Bootcamps and led the positions of founding AI engineer and business operations. I am a 3x Kaggle expert and lead organizer for TensorFlow User Group Chandigarh. I actively write medium blogs under two Gen AI publications and upload paper/book reading session videos on YouTube as well. I love to guide and mentor students in community building and AI/ML. Apart from my contribution towards Google communities, I am also a part of Women at MIT and Founder's Voyage community which gives me exposure to the global tech culture and mostly AI.
 
 *Thank you for reading!*
