@@ -24,6 +24,6 @@ When I’m not deep into AI, you’ll find me mentoring students, brainstorming 
 
 ### Some Achievements
 
-[^1]: Featured in [Google IO 2024](https://www.youtube.com/watch?v=b4Gs-taU0Tk)
-[^2]: Google Developer Expert in ML (Gen AI)
-[^3]: Project featured in [Gemma official cookbook](https://github.com/google-gemini/gemma-cookbook/tree/main/Gemma/Gemma-on-Android)
+- Featured in [Google IO 2024](https://www.youtube.com/watch?v=b4Gs-taU0Tk)
+- Google Developer Expert in ML (Gen AI)
+- Project featured in [Gemma official cookbook](https://github.com/google-gemini/gemma-cookbook/tree/main/Gemma/Gemma-on-Android)
