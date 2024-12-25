@@ -13,3 +13,17 @@ My global perspective is enriched by being part of inspiring communities like **
 When I’m not deep into AI, you’ll find me mentoring students, brainstorming the next big idea, or connecting people through technology. Let’s work together to build a future driven by curiosity, collaboration, and transformation! 🚀
 
 
+### Timeline
+
+| Position                               | Company                           | Duration                |
+|:--------------------------------------:|:---------------------------------:|:-----------------------:|
+| AI Technical Writer (on contract)      | DataCamp                          | August 2024 - Present   |
+| Founding AI Engineer                   | MedEnGauge Healthcare Ovt Ltd     | Nov 2020 - Dec 2022     |
+| Internet of Things Intern              | SenseGrass                        | July 2020 - October 2020|
+
+
+### Some Achievements
+
+[^1]: Featured in [Google IO 2024](https://www.youtube.com/watch?v=b4Gs-taU0Tk)
+[^2]: Google Developer Expert in ML (Gen AI)
+[^3]: Project featured in [Gemma official cookbook](https://github.com/google-gemini/gemma-cookbook/tree/main/Gemma/Gemma-on-Android)
