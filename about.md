@@ -18,7 +18,7 @@ When I’m not deep into AI, you’ll find me mentoring students, brainstorming 
 | Position                               | Company                           | Duration                |
 |:--------------------------------------:|:---------------------------------:|:-----------------------:|
 | AI Technical Writer (on contract)      | DataCamp                          | August 2024 - Present   |
-| Founding AI Engineer                   | MedEnGauge Healthcare Ovt Ltd     | Nov 2020 - Dec 2022     |
+| Founding AI Engineer                   | MedEnGauge Healthcare Pvt Ltd     | Nov 2020 - Dec 2022     |
 | Internet of Things Intern              | SenseGrass                        | July 2020 - October 2020|
 
 
