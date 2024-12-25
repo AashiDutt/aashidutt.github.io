@@ -15,6 +15,15 @@ disqus: 'https-aashidutt-github-io'
 # Add your GA Tracking Id
 ga_analytics: 
 
+# Datacamp Articles
+datacamp_articles:
+  - title: "Llama 3.2 and Gradio Tutorial: Build a Multimodal Web App"
+    link: "https://www.datacamp.com/article/llama-gradio-tutorial"
+    date: "December 2024"
+  - title: "Other Article Title"
+    link: "https://www.datacamp.com/article/other-title"
+    date: "November 2024"
+    
 # Contact form setings
 email: aashi.dutt3@email.com
 #contact_page_description: "Coming Soon."
