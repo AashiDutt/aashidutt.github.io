@@ -4,6 +4,12 @@ title: About
 
 ---
 
-I am a AI Technical Writer at DataCamp and a graduate student at Georgia Institute of Technology, pursuing a master's in Computer science (majoring in Machine Learning). I have 3 years of experience combined in both tech and non-tech including working for a Health-tech startup as Founding AI Engineer, and a IOT Intern at Europe based Startup (SenseGrass). I am a Google Developer Expert in ML (Gen AI), a 3x Kaggle expert and lead organizer for ML Chandigarh community. I actively write medium blogs under two Gen AI publications and upload paper/book reading session videos on YouTube as well. I love to guide and mentor students in community building and AI/ML. Apart from my contribution towards Google communities, I am also a part of Women at MIT and Founder's Voyage community which gives me exposure to the global tech culture and mostly AI.
+Hi there! 👋 I’m an **AI Technical Writer at DataCamp**, where I craft engaging content that bridges the gap between cutting-edge AI advancements and learners worldwide. Currently, I’m pursuing a **master’s degree in Computer Science** at **Georgia Institute of Technology**, specializing in **Machine Learning**. With 3+ years of experience spanning tech and non-tech roles, I’ve had the privilege of contributing as a **Founding AI Engineer** at a health-tech startup and as an **IoT Intern** at a Europe-based startup (**SenseGrass**). These diverse experiences have honed my ability to innovate and communicate in the rapidly evolving AI landscape.
+
+I’m a **Google Developer Expert in Machine Learning (Generative AI)** and a **3x Kaggle Expert**, passionate about sharing knowledge and empowering the AI/ML community. As the **Lead Organizer of the ML Chandigarh community**, I thrive on creating impactful connections and fostering learning opportunities. I also actively contribute through **Medium blogs under Gen AI publications** and **paper/book reading session videos on YouTube**, making complex AI topics accessible to all.
+
+My global perspective is enriched by being part of inspiring communities like **Women at MIT** and **Founder’s Voyage**, which fuel my passion for mentorship and community building. Guiding students, fostering innovation, and contributing to a global AI culture are at the heart of my mission. 
+
+When I’m not deep into AI, you’ll find me mentoring students, brainstorming the next big idea, or connecting people through technology. Let’s work together to build a future driven by curiosity, collaboration, and transformation! 🚀
 
 
