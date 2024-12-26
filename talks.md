@@ -12,6 +12,8 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 * Expert talk at DevFest Baroda on 1 December, 2024 on the topic <b>Unveiling the mysteries of large language models</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
+* Expert talk for TFUG Islamabad, ML Paper reading club on 3 July, 2024 on the topic <b>LoRA - Low Rank Adaptation of LLMs</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
+
 * Expert talk at Saarland University, Germany on 3 July, 2024 on the topic <b>Harnessing Powers of Gemini</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
 * Expert talk at Google IO Extended Prayagraj on 29 June, 2024 on the topic <b>Intro to Gemma models</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
