@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks/Seminars/Workshops
-featured_image: /assets/images/talks.jpg
+featured_image: /assets/images/talks.jpeg
 ---
 
 I love to learn from and meet a lot of new people specially in the tech industry through developer meetups, conferences, workshops etc. I also love to share my knowledge with the community through presentations on topics that I love and care about the most. All of my talks/sessions can be found below.
