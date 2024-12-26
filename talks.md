@@ -7,7 +7,7 @@ featured_image: /assets/images/talks.jpeg
 I love to learn from and meet a lot of new people specially in the tech industry through developer meetups, conferences, workshops etc. I also love to share my knowledge with the community through presentations on topics that I love and care about the most. All of my talks/sessions can be found below.
 # Featured
 
-[![Google IO 2024 - Developing for Indic languages | Gemma and Navarasa](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=b4Gs-taU0Tk)
+[![Google IO 2024 - Developing for Indic languages | Gemma and Navarasa](https://img.youtube.com/vi/b4Gs-taU0Tk/0.jpg)](https://www.youtube.com/watch?v=b4Gs-taU0Tk)
 
 # Talks
 
