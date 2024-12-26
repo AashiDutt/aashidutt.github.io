@@ -6,26 +6,26 @@ featured_image: /assets/images/talks.jpeg
 
 I love to learn from and meet a lot of new people specially in the tech industry through developer meetups, conferences, workshops etc. I also love to share my knowledge with the community through presentations on topics that I love and care about the most. All of my talks/sessions can be found below.
 
-# Meetup Talks
+# Talks
 
-* Presented at <a href="https://youtu.be/0MGpyYovUwM">Deep Learning in Production Meetup</a> at Cambridge, MA in January, 2019 on the topic <b>Machine Learning Inference on Mobile Devices</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>, <a href="https://github.com/anujdutt9/Machine-Learning-Inference-on-Mobile-Devices">GitHub repository</a>.
+* Expert talk at DevFest Nagpur on 21 December, 2024 on the topic <b>Unveiling the mysteries of large language models</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-* Presented at the <a href="https://www.meetup.com/Boston_New_Technology/events/261104328/">AI Talks: Use Cases in Machine Learning</a> meetup hosted by the <b>Boston New Technology</b> group at Cambridge, MA in May, 2019 on the topic <b>Deploying Machine Learning Models Efficiently on Mobile Devcies & the Future ahead</b>. <a href="https://drive.google.com/file/d/1Grab0H-_qRi6bIKOf7zmQVL3kELawuQW/view?usp=sharing">Slide Deck</a>
+* Expert talk at DevFest Baroda on 1 December, 2024 on the topic <b>Unveiling the mysteries of large language models</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-* Presented on the topic <b>The Future of AI</b> at the meetup hosted by the <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TFUG Chandigarh</a> in October, 2020. <a href="https://docs.google.com/presentation/d/1os4citoKOnFNHDuJdbUdjNlZgcZm9Q9nfECnu0Qwzu4/edit?usp=sharing">Slide Deck</a>
+* Expert talk at Saarland University, Germany on 3 July, 2024 on the topic <b>Harnessing Powers of Gemini</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-* Presented on the topic <b>Deploying TFLite Models with Flutter</b> at the meetup hosted by the <a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TFUG Chandigarh</a> in December, 2020. <a href="https://docs.google.com/presentation/d/1x1Qc0bX46Zv9M156xrtCaSjLrskJKyea4CqK51hxdR8/edit?usp=sharing">Slide Deck</a>, <a href="https://github.com/anujdutt9/TFUG_Projects">GitHub repository</a>.
+* Expert talk at Google IO Extended Prayagraj on 29 June, 2024 on the topic <b>Intro to Gemma models</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-* Presented at the AI Hardware and Embedded AI Summit on the topic <b>Model Compression Techniques for EdgeAI</b>. <a href="https://player.vimeo.com/video/868300770">Video Session</a>
+* Expert talk at GDG Dhaka on 15 June, 2024 on the topic <b>Intro to Gemma models</b>. <a href="https://www.youtube.com/watch?v=zEkukCuM8s8">YouTube</a>
 
-# Patents
+* Expert talk at Build with AI Doha on 9 June, 2024 on the topic <b>IGemini Show & Tell</b>. <a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-* <a href="https://patentimages.storage.googleapis.com/75/41/10/47a7d2de9c3291/US20200329297A1.pdf">Automated Control of Noise Reduction or Noise Masking</a>
+* ML Community talk, sharing projects built with Gemini and Gemma with the Global community on 17 April 2024.<a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-* <a href="https://patentimages.storage.googleapis.com/57/43/54/14cb2abd8a2641/US10743165.pdf">Automatically pairing a Bluetooth low energy (BLE) device to a user device</a>
+* Expert workshop at Chitkara University, Punjab on 11 April 2024 on the topic <b>Hands on with Gemini</b><a href="https://drive.google.com/file/d/174fxNc4Y1EJRQWXOwrt86OB2LmweMLM-/view?usp=sharing">Slide Deck</a>
 
-# Co-Organizer
+# Organizer @MLChandigarh
 
-<a href="https://www.meetup.com/tensorflow-user-group-chandigarh/">TensorFlow User Group Chandigarh</a>
+<a href="https://www.commudle.com/communities/tfug-chandigarh">TensorFlow User Group Chandigarh</a>
 
-<b>Note:</b> *If you are interested in inviting me as a speaker or discussing any topic in general, please feel free to reach out to me by dropping an email at <a href="anuj.dutt9@gmail.com">anuj.dutt9@gmail.com</a> or through the contact form.*
+<b>Note:</b> *If you are interested in inviting me as a speaker or discussing any topic in general, please feel free to reach out to me by dropping an email at <a href="aashi.dutt3@gmail.com">aashi.dutt3@gmail.com</a> or through the contact form.*
