@@ -23,7 +23,8 @@ When I’m not deep into AI, you’ll find me mentoring students, brainstorming 
 
 
 ### Some Achievements
-
-- Featured in [Google IO 2024](https://www.youtube.com/watch?v=b4Gs-taU0Tk)
-- Google Developer Expert in ML (Gen AI)
-- Project featured in [Gemma official cookbook](https://github.com/google-gemini/gemma-cookbook/tree/main/Gemma/Gemma-on-Android)
+→ Recognized as [Google Developer Expert](https://developers.google.com/profile/u/AashiDutt) in Machine Learning (Gen AI)
+→ Featured at [Google IO](https://www.youtube.com/watch?v=b4Gs-taU0Tk) for technical contributions 
+→ Launched impactful projects like SciGemma and PharmaScan on [Github](https://github.com/AashiDutt)
+→ Transitioned to AI Technical Writer at [DataCamp](https://www.datacamp.com/portfolio/aashidutt3)
+→ Project featured in [Gemma official cookbook](https://github.com/google-gemini/gemma-cookbook/tree/main/Gemma/Gemma-on-Android)
