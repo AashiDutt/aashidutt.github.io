@@ -34,6 +34,16 @@ linkedin: 'aashi-d-b5554a107'
 #quora: 'username'
 
 # Navigation
+# navigation:
+#   - text: Home
+#     url: /
+#   - text: About
+#     url: /about
+#   - text: Projects
+#     url: /projects
+#   - text: Contact Me
+#     url: /contact
+
 navigation:
   - text: Home
     url: /
@@ -41,6 +51,8 @@ navigation:
     url: /about
   - text: Projects
     url: /projects
+  - text: Talks/Seminars
+    url: /talks
   - text: Contact Me
     url: /contact
 
