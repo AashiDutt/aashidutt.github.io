@@ -22,7 +22,7 @@ When I’m not deep into AI, you’ll find me mentoring students, brainstorming 
 | Internet of Things Intern              | SenseGrass                        | July 2020 - October 2020|
 
 
-### Some Achievements
+### Achievements
 → Recognized as [Google Developer Expert](https://developers.google.com/profile/u/AashiDutt) in Machine Learning (Gen AI)
 
 → Featured at [Google IO](https://www.youtube.com/watch?v=b4Gs-taU0Tk) for technical contributions 
