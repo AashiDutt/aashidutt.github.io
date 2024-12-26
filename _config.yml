@@ -1,12 +1,12 @@
 # Site setings
 name: 'Aashi Dutt'
-description: 'Aspiring AI Developer'
+description: 'AI Technical Writer'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.png'
-  greetings: "Hi there! My name is Aashi. I'm an aspiring AI developer based in India, with a background in Electronics and Communications Engineering. Welcome to my Blog :)"
+  greetings: "Hi there! I am Aashi. I am a AI Technical Writer at DataCamp and a Master's student at Georgia Institute of Technology, Atlanta."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://aashidutt.github.io
@@ -14,7 +14,7 @@ disqus: 'https-aashidutt-github-io'
 #mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
 ga_analytics: 
-
+    
 # Contact form setings
 email: aashi.dutt3@email.com
 #contact_page_description: "Coming Soon."
@@ -26,7 +26,7 @@ twitter: 'aashidutt'
 github: 'AashiDutt'
 #codepen: 'username'
 #dribbble: 'username'
-medium: '@aashi.dutt3'
+medium: '@aashi-dutt3' 
 #instagram: 'username'
 #pinterest: 'username'
 linkedin: 'aashi-d-b5554a107'
