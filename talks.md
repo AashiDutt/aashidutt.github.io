@@ -24,9 +24,9 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 - Expert talk at Build with AI Doha on 9 June, 2024 on the topic <b>Gemini Show & Tell</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/ML_Community_Talk_Build_with_AI.pptx.pdf">Slide Deck</a>
 
-- ML Community talk, sharing projects built with Gemini and Gemma with the Global community on 17 April, 2024.<a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/ML_Community_Talk_Build_with_AI.pptx.pdf">Slide Deck</a>
+- ML Community talk, sharing projects <b>built with Gemini and Gemma</b> with the Global community on 17 April, 2024. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/ML_Community_Talk_Build_with_AI.pptx.pdf">Slide Deck</a>
 
-- Workshop at Chitkara University, Punjab on 11 April, 2024 on the topic <b>Hands on with Gemini</b><a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Harnessing%20the%20powers%20of%20Gemini%20.pdf">Slide Deck</a>
+- Workshop at Chitkara University, Punjab on 11 April, 2024 on the topic <b>Hands on with Gemini</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Harnessing%20the%20powers%20of%20Gemini%20.pdf">Slide Deck</a>
 
 - Workshop at TFUG Agadir on 30 March, 2024 on the topic <b>Hands-on with Gemini</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Harnessing%20the%20powers%20of%20Gemini%20.pdf">Slide Deck</a>
 
@@ -34,11 +34,11 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 - Project showcase at Build with AI Roadshow Gift city, on 9 March, 2024 on the topic <b>Gemini Show & Tell</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/ML_Community_Talk_Build_with_AI.pptx.pdf">Project</a>
 
-- Community talk on 24 December, 2023 on the topic <b>Getting started with Keras CV</b><a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Getting%20Started%20with%20KerasCV.pdf">Slide Deck</a>
+- Community talk on 24 December, 2023 on the topic <b>Getting started with Keras CV</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Getting%20Started%20with%20KerasCV.pdf">Slide Deck</a>
 
-- Community talk at MMDU, Haryana on 20 October, 2023 on the topic <b>Gen AI Workshop - Exploring limitless AI and Large Language Models</b><a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Gemini%20Driven%20Real%20World%20Use%20Cases.pdf">Slide Deck</a>
+- Community talk at MMDU, Haryana on 20 October, 2023 on the topic <b>Gen AI Workshop - Exploring limitless AI and Large Language Models</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/Gemini%20Driven%20Real%20World%20Use%20Cases.pdf">Slide Deck</a>
 
-- Community talk at Chandigarh University, Punjab on 2 September, 2023 on the topic <b>AI for Edge with Keras</b><a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/AI%20for%20Edge%20with%20Keras.pdf">Slide Deck</a>
+- Community talk at Chandigarh University, Punjab on 2 September, 2023 on the topic <b>AI for Edge with Keras</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/AI%20for%20Edge%20with%20Keras.pdf">Slide Deck</a>
 
 # Organizer @MLChandigarh
 
