@@ -11,18 +11,31 @@ title: Home
 {% endif %}
 
 {% if page.url == "/" %}
-<!-- Featured-->
+<!-- Featured Posts Section -->
 <div id="featured-posts" class="featured-posts">
-    {% for post in site.posts %}
+    <div class="featured-title">Featured Projects</div>
+    {% for post in site.posts limit: 4 %}
     {% if post.featured == true %}
     {% include featuredbox.html %}
     {% endif %}
     {% endfor %}
 </div>
 
-{% endif%}
+<!-- Remaining Posts Section -->
+<div id="remaining-posts" class="remaining-posts">
+    <div class="remaining-title">All Other Articles</div>
+    <ul>
+        {% for post in site.posts offset: 4 %}
+        <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <span class="post-date">({{ post.date | date: "%B %d, %Y" }})</span>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endif %}
 
-<!-- Posts Index -->
+<!-- Pagination -->
 <div class="post-feed inner">
     {% if page.url == "/" %}
     <div class="post-feed-title">Latest Articles</div>
@@ -39,5 +52,3 @@ title: Home
     {% include newsletter-box.html %}
 {% endif %}
 </main>
-
-
