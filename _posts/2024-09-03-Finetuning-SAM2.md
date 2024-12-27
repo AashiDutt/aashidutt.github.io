@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Fine-Tuning SAM 2 on a Custom Dataset: Tutorial"
 tags: [AI, Medical Imaging, SAM 2, Meta AI]
