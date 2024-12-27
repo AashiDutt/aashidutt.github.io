@@ -7,7 +7,7 @@ tags:
   - Qwen
   - Gradio
   - AI Tools
-featured_image_thumbnail: "assets/images/posts/2024/qwencoder.png"
+featured_image_thumbnail: "assets/images/posts/qwencoder.png"
 featured_image: "assets/images/posts/qwen_coder.jpg"
 featured: true
 hidden: false
