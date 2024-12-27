@@ -11,9 +11,8 @@ title: Home
 {% endif %}
 
 {% if page.url == "/" %}
-<!-- Featured Posts Section -->
+<!-- Featured -->
 <div id="featured-posts" class="featured-posts">
-    <div class="featured-title">Featured Projects</div>
     {% for post in site.posts limit: 4 %}
     {% if post.featured == true %}
     {% include featuredbox.html %}
@@ -21,32 +20,16 @@ title: Home
     {% endfor %}
 </div>
 
-<!-- Remaining Posts Section -->
-<div id="remaining-posts" class="remaining-posts">
-    <div class="remaining-title">All Other Articles</div>
-    <ul>
-        {% for post in site.posts offset: 4 %}
-        <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
-            <span class="post-date">({{ post.date | date: "%B %d, %Y" }})</span>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
-{% endif %}
-
-<!-- Pagination -->
+<!-- Latest Articles -->
 <div class="post-feed inner">
-    {% if page.url == "/" %}
     <div class="post-feed-title">Latest Articles</div>
-    {% endif %}
     <div class="post-feed inner-wide">
         {% for post in paginator.posts %}
             {% include postbox.html %}
         {% endfor %}
     </div>
 </div>
-<!-- Pagination-->
+<!-- Pagination -->
 {% include pagination.html %}
 {% if site.mailchimp_url %}
     {% include newsletter-box.html %}
