@@ -40,6 +40,16 @@ I love to learn from and meet a lot of new people specially in the tech industry
 
 - Community talk at Chandigarh University, Punjab on 2 September, 2023 on the topic <b>AI for Edge with Keras</b>. <a href="https://github.com/AashiDutt/Talks-and-Presentations/blob/main/AI%20for%20Edge%20with%20Keras.pdf">Slide Deck</a>
 
+# YouTube Tutorials
+
+Here are some of my YouTube playlists:
+
+1. **[Solidity Basics Tutorial Playlist](https://www.youtube.com/playlist?list=PL3drL6Caa2cWA7edMZqpkP3KMKjRxIPwh)** - Learn Solidity basics and start your journey in blockchain development.
+
+2. **[AI and ML for Coders Book by Laurence Maroney - Book Reading Playlist](https://www.youtube.com/playlist?list=PL3drL6Caa2cW0qw3FMhX1e0KUHmbeFLyS)** - A series of tutorials covering "AI and ML for Coders" with hands-on examples.
+
+3. **[Blockchain Papers Summary](https://www.youtube.com/playlist?list=PL3drL6Caa2cWt9Z5VSqrHLI6XTmybnMrf)** - Summaries of key blockchain research papers for better understanding of the technology.
+
 # Organizer @MLChandigarh
 
 <a href="https://www.commudle.com/communities/tfug-chandigarh">TensorFlow User Group Chandigarh</a>
