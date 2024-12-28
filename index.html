@@ -13,7 +13,9 @@ title: Home
 {% if page.url == "/" %}
 <!-- Featured Posts Section -->
 <div id="featured-posts" class="featured-posts">
-    <div class="featured-title">Featured Projects</div>
+    <div class="featured-title" style="font-size: 2rem; font-weight: bold; color: #333; text-align: left; margin-bottom: 1.5rem; padding-left: 2rem;">
+        Featured Projects
+    </div>
     {% for post in site.posts limit: 4 %}
     {% if post.featured == true %}
     {% include featuredbox.html %}
@@ -25,7 +27,9 @@ title: Home
 <!-- Pagination -->
 <div class="post-feed inner">
     {% if page.url == "/" %}
-    <div class="post-feed-title">Latest Articles</div>
+    <div class="post-feed-title" style="font-size: 2rem; font-weight: bold; color: #333; text-align: left; margin-bottom: 1.5rem; padding-left: 2rem;">
+        Latest Articles
+    </div>
     {% endif %}
     <div class="post-feed inner-wide">
         {% for post in paginator.posts %}
