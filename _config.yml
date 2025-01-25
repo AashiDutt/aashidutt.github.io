@@ -49,10 +49,10 @@ navigation:
     url: /
   - text: About
     url: /about
- # - text: Projects
-  #  url: /projects
   - text: Talks/Seminars
     url: /talks
+  - text: DataCamp Portfolio
+    url: https://www.datacamp.com/portfolio/aashidutt3
   - text: Contact Me
     url: /contact
 
