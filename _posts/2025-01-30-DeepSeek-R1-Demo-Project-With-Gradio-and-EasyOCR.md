@@ -13,7 +13,7 @@ featured: true
 hidden: false
 ---
 
-**[Read the full article on DataCamp: DeepSeek-R1 - A Hands-on Guide to Building a Math Puzzle Solver](https://www.datacamp.com/tutorial/deepseek-r1)**
+**[Read the full article on DataCamp: DeepSeek-R1 - A Hands-on Guide to Building a Math Puzzle Solver](https://www.datacamp.com/tutorial/deepseek-r1-project)**
 
 Learn how to implement **DeepSeek-R1**, a powerful model designed for mathematical reasoning, and integrate it with **EasyOCR** and **Gradio** to build an interactive math puzzle solver.
 
@@ -49,4 +49,4 @@ This hands-on tutorial provides a structured approach to implementing an intelli
 ---
 
 **Learn more by reading the full guide on DataCamp.**  
-[Click here to read the full article](https://www.datacamp.com/tutorial/deepseek-r1).
+[Click here to read the full article](https://www.datacamp.com/tutorial/deepseek-r1-project)
