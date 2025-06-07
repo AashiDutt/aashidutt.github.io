@@ -10,8 +10,8 @@ tags:
   - Image Generation
   - Gradio
   - Orchestration
-featured_image_thumbnail: "assets/images/posts/mistral_agents_api/mistral_agents_thumbnail.png"
-featured_image: "assets/images/posts/mistral_agents_api/mistral_agents_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/mistral_agent.png"
+featured_image: "assets/images/posts/mistral_agent.png"
 featured: true
 hidden: false
 ---
