@@ -9,8 +9,8 @@ tags:
   - Paper Reviewer
   - Statistics
   - LLM Reasoning
-featured_image_thumbnail: "assets/images/posts/o4_mini_guide/o4_mini_thumb.png"
-featured_image: "assets/images/posts/o4_mini_guide/o4_mini_thumb.png"
+featured_image_thumbnail: "assets/images/posts/o4_mini.png"
+featured_image: "assets/images/posts/o4_mini.png"
 featured: true
 hidden: false
 ---
