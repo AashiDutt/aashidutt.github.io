@@ -8,8 +8,8 @@ tags:
   - A2A vs MCP
   - JSON-RPC
   - Server Sent Events
-featured_image_thumbnail: "assets/images/posts/a2a_protocol/a2a_thumbnail.png"
-featured_image: "assets/images/posts/a2a_protocol/a2a_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/a2a.png"
+featured_image: "assets/images/posts/a2a.png"
 featured: true
 hidden: false
 ---
