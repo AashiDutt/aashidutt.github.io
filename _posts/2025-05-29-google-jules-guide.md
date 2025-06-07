@@ -9,8 +9,8 @@ tags:
   - Code Automation
   - Audio Changelogs
   - Feature Engineering
-featured_image_thumbnail: "assets/images/posts/google_jules/jules_thumbnail.png"
-featured_image: "assets/images/posts/google_jules/jules_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/Jules.png"
+featured_image: "assets/images/posts/Jules.png"
 featured: true
 hidden: false
 ---
