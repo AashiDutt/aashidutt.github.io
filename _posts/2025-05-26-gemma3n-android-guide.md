@@ -9,8 +9,8 @@ tags:
   - Multimodal AI
   - Edge Deployment
   - Mobile Inference
-featured_image_thumbnail: "assets/images/posts/gemma3n_android/gemma3n_thumbnail.png"
-featured_image: "assets/images/posts/gemma3n_android/gemma3n_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/gemma3n.png"
+featured_image: "assets/images/posts/gemma3n.png"
 featured: true
 hidden: false
 ---
