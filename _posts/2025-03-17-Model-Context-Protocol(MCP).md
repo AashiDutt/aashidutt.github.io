@@ -10,13 +10,13 @@ tags:
   - Notion
   - Python
   - Claude Desktop
-featured_image_thumbnail: "assets/images/posts/mcp_pr_review/mcp_thumbnail.png"
-featured_image: "assets/images/posts/mcp_pr_review/mcp_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/mcp.png"
+featured_image: "assets/images/posts/mcp.png"
 featured: true
 hidden: false
 ---
 
-**[Read the full article on DataCamp: Model Context Protocol (MCP): A Guide With Demo Project](https://www.datacamp.com/tutorial/model-context-protocol)**
+**[Read the full article on DataCamp: Model Context Protocol (MCP): A Guide With Demo Project](https://www.datacamp.com/tutorial/mcp-model-context-protocol)**
 
 Learn how to build a **PR review server** using **Anthropic’s Model Context Protocol (MCP)** that connects Claude Desktop with GitHub and Notion for dynamic code analysis and documentation.
 
