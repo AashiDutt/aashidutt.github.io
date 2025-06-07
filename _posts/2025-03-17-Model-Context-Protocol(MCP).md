@@ -160,20 +160,6 @@ You can input any GitHub PR link, and Claude will:
 - Analyze diffs
 - Summarize the PR and optionally upload the result to Notion
 
----
-
-## Demo Screenshots
-
-### Claude Summarizing PR:
-
-![Claude MCP Summarizing PR](assets/images/posts/mcp_pr_review/claude_reviewing.png)
-
-### Summary Saved to Notion:
-
-![Claude Notion Output](assets/images/posts/mcp_pr_review/notion_output.png)
-
----
-
 ## Use Cases and Extensions
 
 This MCP workflow can be extended into many directions:
