@@ -1,4 +1,20 @@
+---
+layout: post
+title: "How to Set Up and Run QwQ 32B Locally With Ollama"
+tags:
+  - QwQ
+  - Gradio
+featured_image_thumbnail: "assets/images/posts/QwQ.png"
+featured_image: "assets/images/posts/QwQ.png"
+featured: true
+hidden: false
+---
 
+**[Read the full article on DataCamp: Run QwQ-32B locally with Ollama](https://www.datacamp.com/tutorial/qwq-32b-ollama)**
+
+Learn how to build intelligent assistants using **Mistral’s Agents API** and explore agent creation, tool usage, memory retention, and orchestration. A hands-on **Nutrition Coach** demo ties it all together.
+
+---
 # How to Set Up and Run QwQ 32B Locally With Ollama
 
 Learn how to install, set up, and run QwQ-32B locally with Ollama and build a simple Gradio application.
