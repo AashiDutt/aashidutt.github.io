@@ -17,7 +17,7 @@ hidden: false
 
 **[Read the full article on DataCamp: Google Jules – A Guide With 3 Practical Examples](https://www.datacamp.com/tutorial/google-jules)**
 
-Learn how to use **Google Jules**, an autonomous coding agent powered by **Gemini 2.5 Pro**, to automate software engineering workflows across your GitHub repository.
+Learn how to use **Google Jules**, a autonomous coding agent powered by **Gemini 2.5 Pro**, to automate software engineering workflows across your GitHub repository.
 
 ---
 
