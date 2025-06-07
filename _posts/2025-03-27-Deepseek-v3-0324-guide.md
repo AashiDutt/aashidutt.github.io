@@ -9,8 +9,8 @@ tags:
   - Open Source
   - Python
   - Code Generation
-featured_image_thumbnail: "assets/images/posts/deepseek_v3_0324/deepseek_thumbnail.png"
-featured_image: "assets/images/posts/deepseek_v3_0324/deepseek_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/deepseek.png"
+featured_image: "assets/images/posts/deepseek.png"
 featured: true
 hidden: false
 ---
