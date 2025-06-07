@@ -33,7 +33,7 @@ Learn how to build an Android app that uses Google’s **Gemma 3n** to answer qu
 
 ## What Is Gemma 3n?
 
-Gemma 3n is part of Google’s new family of open-weight models for edge deployment. It supports text, image, and audio modalities and is designed to run efficiently on devices with limited compute.
+Gemma 3n is part of Google’s family of open-weight models for edge deployment. It supports text, image, and audio modalities and is designed to run efficiently on devices with limited compute.
 
 ### Key Features:
 - **Multimodal input**: Text + Image input for grounded visual reasoning
