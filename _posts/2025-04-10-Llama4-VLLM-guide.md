@@ -9,8 +9,8 @@ tags:
   - OpenAI API
   - Text Completion
   - Model Deployment
-featured_image_thumbnail: "assets/images/posts/llama4_vllm/llama4_thumbnail.png"
-featured_image: "assets/images/posts/llama4_vllm/llama4_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/llama4.png"
+featured_image: "assets/images/posts/llama4.png"
 featured: true
 hidden: false
 ---
