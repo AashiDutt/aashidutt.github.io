@@ -9,13 +9,13 @@ tags:
   - Multi-Agent
   - Python
   - Visualization
-featured_image_thumbnail: "assets/images/posts/langmanus_guide/langmanus_thumbnail.png"
-featured_image: "assets/images/posts/langmanus_guide/langmanus_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/langmanus.png"
+featured_image: "assets/images/posts/langmanus.png"
 featured: true
 hidden: false
 ---
 
-**[Read the full article on DataCamp: LangManus - A Guide With Demo Project](https://www.datacamp.com/tutorial/langmanus-github-analyzer)**
+**[Read the full article on DataCamp: LangManus - A Guide With Demo Project](https://www.datacamp.com/tutorial/langmanus)**
 
 Learn how to build a multi-agent system using **LangManus** to analyze a trending GitHub repository, scrape its commit history, visualize activity trends, and generate a markdown report.
 
@@ -178,4 +178,4 @@ LangManus is ideal for building agents that research, analyze, and report from r
 ---
 
 **Explore the full tutorial on DataCamp**  
-👉 [Click here to read it](https://www.datacamp.com/tutorial/langmanus-github-analyzer)
+👉 [Click here to read it](https://www.datacamp.com/tutorial/langmanus)
