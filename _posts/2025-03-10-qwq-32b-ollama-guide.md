@@ -12,7 +12,7 @@ hidden: false
 
 **[Read the full article on DataCamp: Run QwQ-32B locally with Ollama](https://www.datacamp.com/tutorial/qwq-32b-ollama)**
 
-Learn how to build intelligent assistants using **Mistral’s Agents API** and explore agent creation, tool usage, memory retention, and orchestration. A hands-on **Nutrition Coach** demo ties it all together.
+Learn how to build intelligent assistants using **Mistral Agents API** and explore agent creation, tool usage, memory retention, and orchestration. A hands-on **Nutrition Coach** demo ties it all together.
 
 ---
 # How to Set Up and Run QwQ 32B Locally With Ollama
