@@ -9,8 +9,8 @@ tags:
   - Chrome Extension
   - Summarizer Agent
   - Real-Time LLM
-featured_image_thumbnail: "assets/images/posts/qwen_agent_extension/qwen_agent_extension_thumbnail.png"
-featured_image: "assets/images/posts/qwen_agent_extension/qwen_agent_extension_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/qwen_agent.png"
+featured_image: "assets/images/posts/qwen_agent.png"
 featured: true
 hidden: false
 ---
