@@ -9,8 +9,8 @@ tags:
   - OpenAI API
   - FastAPI
   - Streamlit
-featured_image_thumbnail: "assets/images/posts/adk_travel_planner/adk_thumbnail.png"
-featured_image: "assets/images/posts/adk_travel_planner/adk_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/adk.png"
+featured_image: "assets/images/posts/adk.png"
 featured: true
 hidden: false
 ---
