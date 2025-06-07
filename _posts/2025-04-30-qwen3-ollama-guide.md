@@ -16,7 +16,7 @@ hidden: false
 
 **[Read the full article on DataCamp: How to Set Up and Run Qwen 3 Locally With Ollama](https://www.datacamp.com/tutorial/qwen3-ollama)**
 
-Learn how to install, set up, and run Qwen3 locally with **Ollama**, and build a simple **Gradio-based reasoning and translation app**.
+Learn how to install, set up, and, run Qwen3 locally with **Ollama**, and build a simple **Gradio-based reasoning and translation app**.
 
 ---
 
