@@ -1,4 +1,29 @@
+from pathlib import Path
 
+# Define ADK blog metadata
+adk_markdown_header = """---
+layout: post
+title: "Google's Agent Development Kit (ADK): A Guide With Demo Project"
+tags:
+  - Google ADK
+  - Agent2Agent
+  - Multi-Agent Systems
+  - Travel Planner
+  - OpenAI API
+  - FastAPI
+  - Streamlit
+featured_image_thumbnail: "assets/images/posts/adk.png"
+featured_image: "assets/images/posts/adk.png"
+featured: true
+hidden: false
+---
+
+**[Read the full article on DataCamp: Google's Agent Development Kit (ADK) – A Guide With Demo Project](https://www.datacamp.com/tutorial/agent-development-kit-adk)**
+
+Learn how to build a multi-agent **travel assistant** using **Google's ADK** and the **Agent2Agent (A2A)** protocol with **FastAPI** and **Streamlit**.
+
+---
+"""
 # Google's Agent Development Kit (ADK): A Guide With Demo Project
 
 Learn how to build a multi-agent travel assistant using Google's Agent Development Kit (ADK) and the Agent2Agent (A2A) protocol.  
