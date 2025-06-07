@@ -8,8 +8,8 @@ tags:
   - Reasoning
   - Translation
   - Gradio
-featured_image_thumbnail: "assets/images/posts/qwen3_local/qwen3_ollama.png"
-featured_image: "assets/images/posts/qwen3_local/qwen3_ollama.png"
+featured_image_thumbnail: "assets/images/posts/qwen3_ollama.png"
+featured_image: "assets/images/posts/qwen3_ollama.png"
 featured: true
 hidden: false
 ---
