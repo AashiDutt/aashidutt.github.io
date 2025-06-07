@@ -9,8 +9,8 @@ tags:
   - Pull Request Automation
   - Bug Fixing
   - Code Explanation
-featured_image_thumbnail: "assets/images/posts/openai_codex/codex_thumbnail.png"
-featured_image: "assets/images/posts/openai_codex/codex_thumbnail.png"
+featured_image_thumbnail: "assets/images/posts/codex.png"
+featured_image: "assets/images/posts/codex.png"
 featured: true
 hidden: false
 ---
